@@ -1,0 +1,59 @@
+{
+  "name": "voting-system",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "voting-system",
+      "version": "1.0.0",
+      "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.20.2",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.1",
+        "mongoose": "^7.3.2",
+        "nodemon": "^3.0.1"
+      }
+    }
+  },
+  "dependencies": {
+    "bcryptjs": {
+      "version": "2.4.3",
+      "resolved": "https://registry.npmjs.org/bcryptjs/-/bcryptjs-2.4.3.tgz",
+      "integrity": "sha512-GnT0YZ/1vO/oh1i3CvFT3XpZkq7GZkfbj5S3DBa3HJ8xwP+HChZxshjZJJl5uV3YRXxQ8ZrHc6jztX5kpWc+0A=="
+    },
+    "body-parser": {
+      "version": "1.20.2",
+      "resolved": "https://registry.npmjs.org/body-parser/-/body-parser-1.20.2.tgz",
+      "integrity": "sha512-GZbVnQnA4pa/sFZV3HkgBq8qgk7TnR9jU1C6kGrl6Voh+M9N+yhGjYK/H7mM8F5/Z4up4z2Y+3Dx7MvJ6lbQZw=="
+    },
+    "dotenv": {
+      "version": "16.3.1",
+      "resolved": "https://registry.npmjs.org/dotenv/-/dotenv-16.3.1.tgz",
+      "integrity": "sha512-4eG+qvZG0zJ7Kw7cJ5ZJJ8gwlHLXJl5yVnH2q0xM+27O1hKqV9pVvE3XprcnZFXeTPxF1Qfx9T1wP5b0bEYJUQ=="
+    },
+    "express": {
+      "version": "4.18.2",
+      "resolved": "https://registry.npmjs.org/express/-/express-4.18.2.tgz",
+      "integrity": "sha512-9aHk8XdfDg1g0y7ZbFbVjw7aQpplvYw5OiUb/T1/0giNn9IXoM2GJ0hXIRG+j+Oib+PpLPIc4hfl2YuGlz2rCQ=="
+    },
+    "jsonwebtoken": {
+      "version": "9.0.1",
+      "resolved": "https://registry.npmjs.org/jsonwebtoken/-/jsonwebtoken-9.0.1.tgz",
+      "integrity": "sha512-xhJx5gRyxE9Xn6HZnLQ5H12+fG+6ZkRG0rZ2F9QvH2n+Xg2Mgqz+Y4XvY+g85Xe6fH0Q0P1N2bSP0uEvDkB1EA=="
+    },
+    "mongoose": {
+      "version": "7.3.2",
+      "resolved": "https://registry.npmjs.org/mongoose/-/mongoose-7.3.2.tgz",
+      "integrity": "sha512-qWZyY8Jj84A6xUJHFlKJp3x/+1CJGX6rcF5f7QUL3x1lkaL1PrRX8rPz5D+zHTrdZ5G9QbVJfLXd3bvhG4LUXQ=="
+    },
+    "nodemon": {
+      "version": "3.0.1",
+      "resolved": "https://registry.npmjs.org/nodemon/-/nodemon-3.0.1.tgz",
+      "integrity": "sha512-TQ9hXt+HZh0k0C8e6R1U8sv+kZ7IwEO1p0VZ7a4tRS8vD0OqOeZ3SXdfT6G0dFGc6zZskB+cWocWsfDrcztGlg==",
+      "dev": true
+    }
+  }
+}
